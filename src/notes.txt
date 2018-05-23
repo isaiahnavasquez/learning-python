@@ -1,0 +1,30 @@
+
+# getting date:
+# from datetime import date
+
+# getting year, date, month
+# date.today().year; date.today().month; date.today().day
+
+# using strftime format: from datetime import datetime
+# datetime.now().strftime('%Y')
+
+--
+# :display time
+# :display date
+
+# :get how many days has been passed since _date_given
+# :get how many hours has been passed since _date_given
+# :get how many minutes has been passed since _date_given
+
+# :get how many days to go until _date_given
+# :get how many hours to go until _date_given
+# :get how many minutes to go until _date_given
+
+# :calculate time in the future
+#   and return the time in remaining
+# :get other timezone time
+# :get the coordinated universal time
+# :create a countdown timer
+# :show verbose countdown list
+# :show countdown list
+# :start a stopwatch

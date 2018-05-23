@@ -19,8 +19,8 @@ def guess_the_number(numbers):
             print("Nope, larger please")
             chances -= 1
     else:
-        print('chances: 0')
-        print('vovo')
+        print('answer: {}'.format(my_num))
+        print('chances: 0 \t #vovo')
 
-numbers = [1,2,3,4,5,6,7,8,9,10]
+numbers = range(1,11)
 guess_the_number(numbers)
