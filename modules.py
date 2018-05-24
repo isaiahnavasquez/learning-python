@@ -1,3 +1,1 @@
-from shoutout import scream
-
-scream.say_hello()
+import python_basics
