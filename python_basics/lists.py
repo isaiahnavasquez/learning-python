@@ -82,5 +82,3 @@ def main():
             func()
         else:
             break
-
-main()

@@ -98,13 +98,13 @@ fakeNumbers = [1,'2','3',4,'5',6,7]
 myList = [1,'hello',2,'there',3,4,5,6]
 myNumbers = ['foo', 'bar', 'yanny', 'yanny', 'laurel']
 
-print(filter_numbers(myList))
-filter_words(myList)
-count_backwards(20)
-get_total(myList)
-filter_odd_numbers(myList)
-filter_even_numbers(myList)
-get_duplicates(myNumbers)
-get_squares(myList)
-bust_fake_numbers(fakeNumbers)
-find_dominant(nums)
+# print(filter_numbers(myList))
+# filter_words(myList)
+# count_backwards(20)
+# get_total(myList)
+# filter_odd_numbers(myList)
+# filter_even_numbers(myList)
+# get_duplicates(myNumbers)
+# get_squares(myList)
+# bust_fake_numbers(fakeNumbers)
+# find_dominant(nums)

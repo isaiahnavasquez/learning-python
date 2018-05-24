@@ -57,16 +57,16 @@ def guess_the_number(numbers):
         print('chances: 0 \t #vovo')
 
 
-print_sum(1,2,3,4,5,6,7,8,9)
-print(print_sum_and_return(1,2,3,4,5,6,7))
-print(get_squares(global_numbers))
-
-# using lambda
-inc = incrementor(50)
-print(inc(2))
-
-print(parse_then_square('52'))
-print(parse_to_int(3.9))
-
-# let's play a game!
-guess_the_number(numbers)
+# print_sum(1,2,3,4,5,6,7,8,9)
+# print(print_sum_and_return(1,2,3,4,5,6,7))
+# print(get_squares(global_numbers))
+#
+# # using lambda
+# inc = incrementor(50)
+# print(inc(2))
+#
+# print(parse_then_square('52'))
+# print(parse_to_int(3.9))
+#
+# # let's play a game!
+# guess_the_number(numbers)

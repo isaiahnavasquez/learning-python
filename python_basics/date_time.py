@@ -94,12 +94,12 @@ def future_weeks(future_weeks):
     return output
 
 
-print(get_time())
-print(get_date())
-print('\n')
-print(past_days(52))
-print(past_hours(48))
-print(past_weeks(2))
-print(future_days(2))
-print(future_hours(2))
-print(future_weeks(2))
+# print(get_time())
+# print(get_date())
+# print('\n')
+# print(past_days(52))
+# print(past_hours(48))
+# print(past_weeks(2))
+# print(future_days(2))
+# print(future_hours(2))
+# print(future_weeks(2))

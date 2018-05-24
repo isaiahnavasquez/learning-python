@@ -1,4 +1,19 @@
+with open('/files/output.txt', 'w') as text:
+   text.read(size)
+   text.readline(size)
 
+   for line in text:
+      print(line, end='')
+
+
+
+-------------------------------
+__name__ # returns the name of the module
+__main__ # sets the main name of module executed
+sys.argv[1] # gets the first argument in interpreter when a module is executed
+__all__ # sets the modules to be imported when * is used
+
+--------------------------------
 # getting date:
 # from datetime import date
 

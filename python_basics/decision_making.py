@@ -79,12 +79,12 @@ my_number = 1
 my_list = [1,2,3,4,5]
 my_dict = {'name': 'John','surname': 'Doe'}
 
-is_similar(a, b)
-is_bigger(a, b)
-is_smaller(a, b)
-is_string(my_string)
-is_number(my_number)
-is_list(my_list)
-is_dict(my_dict)
-is_even(a)
-is_odd(a)
+# is_similar(a, b)
+# is_bigger(a, b)
+# is_smaller(a, b)
+# is_string(my_string)
+# is_number(my_number)
+# is_list(my_list)
+# is_dict(my_dict)
+# is_even(a)
+# is_odd(a)
