@@ -1,11 +1,18 @@
+# NameError: name 's' is not defined
+# ImportError: cannot import name 'ascii_letters'
+# ZeroDivisionError: division by zero
+# ValueError: invalid literal for int() with base 10: 's'
+# KeyError: 'age'
+# IndexError: string index out of range
+# AttributeError: 'NoneType' object has no attribute 'i'
+# FileNotFoundError: [Errno 2] No such file or directory: 'lol.txt'
+
 with open('/files/output.txt', 'w') as text:
    text.read(size)
    text.readline(size)
 
    for line in text:
       print(line, end='')
-
-
 
 -------------------------------
 __name__ # returns the name of the module
